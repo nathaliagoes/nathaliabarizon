@@ -1,0 +1,25 @@
+title: My Jekyll DXD Blog
+author: Nathalia Goes
+email: nathy.glima@gmail.com
+description: > # this means to ignore newlines until "exclude"
+  Este é o meu site teste para a disciplina de 
+  "Linguagens e Tecnologias Digitais" 
+
+baseurl: /jekyll-dxd
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+
+# Date format for posts
+# refer to http://shopify.github.io/liquid/filters/date/ if you
+# want to customize this
+date_format: "%b %-d, %Y"
+
+# generate social links in footer
+social_links:
+  linkedin: nathaliagoes
+  instagram:  nathaliagoes
+  # facebook:
