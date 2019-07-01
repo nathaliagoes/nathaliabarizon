@@ -1,0 +1,133 @@
+
+	body{ 	
+	font-family: 'Montserrat';
+	margin: auto;
+	}
+
+
+	a{
+		color: #FFFFFF;
+		text-decoration-line: none;
+		font-size: 14px;
+	}
+		
+	img{ 
+		max-width: 100%;
+		height: auto;
+		}
+	
+	a:hover { 
+  	color: black;
+	}
+
+	header{
+	background-color: #FF007A;
+	margin: auto;
+	display: flex;
+	}
+
+	header figure{
+		height: 50px;
+		max-width: : 100%;
+		height: auto;
+
+	}
+
+	.logoenav{
+		display: flex;
+		position: absolute;
+	}
+
+	
+
+	.menu{
+		height: 50px;
+		display: flex;
+	}
+
+	.menu ul li {
+		margin-right:0;
+		padding: 10px;
+		display: inline-flex;
+
+	}
+
+	.banner{
+		height: 400px;
+		color: #FFFFFF;
+		padding: 50px;
+
+	}
+
+	#trajetoria{
+		background-color: #FFFFFF;
+		display: inline-block;
+		padding: 50px;
+	}
+
+	#projetos{
+		padding: 50px;
+		
+	}
+
+	#projetos ul{
+		padding: 0px;
+		
+	}
+	#projetos ul li {
+		list-style-type: none;
+		height: 333px;
+		width: 333px;
+		display: inline-flex;
+		padding: 10px;
+
+	}
+
+	#projetos ul li:hover {
+		background-color:#F774B3;
+	}
+	#skills{
+		padding: 50px;
+	}
+
+	#skills h1{
+		color:#F774B3
+		}
+	#contato{
+		padding: 50px;
+	}
+
+	#contato a{
+	color: #F9097D;
+
+	}
+
+	.footer{
+		background-color: #505050;
+    	bottom:0;
+    	width:100%;
+    	height: 50px;
+    	color: #FFFFFF;
+    	text-align: center;
+    	padding: 5px
+	}
+	h1{
+	font-size: 60px;
+	}
+
+
+	h2{
+		font-size:20px;
+	}
+
+	h4 {
+		margin:0px;	}
+
+
+	p{
+		font-size: 14px;
+	}
+
+	span {
+		color: #FF007A
+	}
