@@ -1,7 +1,6 @@
 
 	body{ 	
 	font-family: 'Montserrat';
-	background-color: #FFFFFF;
 	margin: auto;
 	}
 
@@ -12,6 +11,10 @@
 		font-size: 14px;
 	}
 		
+	img{ 
+		max-width: 100%;
+		height: auto;
+		}
 	
 	a:hover { 
   	color: black;
@@ -25,6 +28,8 @@
 
 	header figure{
 		height: 50px;
+		max-width: : 100%;
+		height: auto;
 
 	}
 
@@ -50,7 +55,6 @@
 	.banner{
 		height: 400px;
 		color: #FFFFFF;
-		background-image: url("header.png");
 		padding: 50px;
 
 	}
