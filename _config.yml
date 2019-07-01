@@ -1,11 +1,11 @@
 title: Nathalia Góes - UX Designer
 author: Nathalia Goes
 email: nathy.glima@gmail.com
-description: > # this means to ignore newlines until "exclude"
+description: > #
 Aqui falo um pouco sobre minha trajetória profissional ao longo dos mais 
 de 8 anos de convivência com produtos digitais.
 
-baseurl: /jekyll-dxd
+baseurl: /nathaliagoes
 
 exclude:
   - Gemfile
@@ -19,7 +19,5 @@ exclude:
 date_format: "%b %-d, %Y"
 
 # generate social links in footer
-social_links:
-  linkedin: nathaliagoes
-  instagram:  nathaliagoes
-  # facebook:
+  linkedin: nathaliagoes https://www.linkedin.com/in/nathaliagoes/
+
