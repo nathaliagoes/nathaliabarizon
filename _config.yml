@@ -21,3 +21,6 @@ date_format: "%b %-d, %Y"
 # generate social links in footer
   linkedin: nathaliagoes https://www.linkedin.com/in/nathaliagoes/
 
+  saas:
+     saas_dir: _saas
+
