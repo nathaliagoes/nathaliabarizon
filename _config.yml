@@ -2,8 +2,8 @@ title: Nathalia Góes - UX Designer
 author: Nathalia Goes
 email: nathy.glima@gmail.com
 description: > #
-Aqui falo um pouco sobre minha trajetória profissional ao longo dos mais 
-de 8 anos de convivência com produtos digitais.
+  Aqui falo um pouco sobre minha trajetória profissional ao longo dos mais de 8 anos de
+  convivência com produtos digitais.
 
 baseurl: /nathaliagoes
 
@@ -19,8 +19,7 @@ exclude:
 date_format: "%b %-d, %Y"
 
 # generate social links in footer
-  linkedin: nathaliagoes https://www.linkedin.com/in/nathaliagoes/
+linkedin: nathaliagoes https://www.linkedin.com/in/nathaliagoes/
 
-  saas:
-     saas_dir: _saas
-
+saas:
+  saas_dir: _saas
