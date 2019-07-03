@@ -86,6 +86,7 @@
 
 	#projetos ul li:hover {
 		background-color:#F774B3;
+		transition: background-color 1s linear 0s;
 	}
 	#skills{
 		padding: 50px;
@@ -136,18 +137,23 @@
 	.form {
 
 	width: 50%;
-}
+	}
 
 	.form p button {
 
-		width: 200px;
+		width: 150px;
 		height: 30px;
 		background-color: #F774B3;
 		border: 2px;
-		border-radius: 2px;
+		border-radius: 8px;
 		border-color: black;
-		font-color:FFFFFF;
-}
+		font-weight: bold;
+	}
+
+
+
+
+
 
 	/* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {...} 
