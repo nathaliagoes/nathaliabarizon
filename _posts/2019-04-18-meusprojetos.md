@@ -3,3 +3,5 @@ layout: Home
 title: Meus projetos
 author: Nathalia Góes 
 ---
+<h1> Oi Tecnico Virtual </h1>
+<p> Projeto de aplicação móvel no segmento de telecomunicações que oferece soluções de assistência técnica referentes aos serviços de internet, telefone e tv. </p>
