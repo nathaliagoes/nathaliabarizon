@@ -94,3 +94,45 @@ layout: default
 	#skills{
 		padding: 50px;
 	}
+
+	#skills h1{
+		color:#F774B3
+		}
+	#contato{
+		padding: 50px;
+	}
+
+	#contato a{
+	color: #F9097D;
+
+	}
+
+	.footer{
+		background-color: #505050;
+    	bottom:0;
+    	width:100%;
+    	height: 50px;
+    	color: #FFFFFF;
+    	text-align: center;
+    	padding: 5px
+	}
+	h1{
+	font-size: 60px;
+	}
+
+
+	h2{
+		font-size:20px;
+	}
+
+	h4 {
+		margin:0px;	}
+
+
+	p{
+		font-size: 14px;
+	}
+
+	span {
+		color: #FF007A
+	}
