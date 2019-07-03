@@ -56,6 +56,7 @@
 		height: 400px;
 		color: #FFFFFF;
 		padding: 50px;
+		background-color: #F774B3;
 
 	}
 
@@ -131,3 +132,34 @@
 	span {
 		color: #FF007A
 	}
+
+	.form {
+
+	width: 50%;
+}
+
+	.form p button {
+
+		width: 200px;
+		height: 30px;
+		background-color: #F774B3;
+		border: 2px;
+		border-radius: 2px;
+		border-color: black;
+		font-color:FFFFFF;
+}
+
+	/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
